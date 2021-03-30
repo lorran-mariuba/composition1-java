@@ -4,9 +4,10 @@ This is a exercise about composition with some basics knowlegde. In this little 
 Technologies
 ------------------------------------------------------------
 Java version: 11.0.10 2021-01-19 LTS
+
 Eclipse version: Enterprise Java Developers - 2020-12 
 
-Example about the project
+
 
 Question
 ------------------------------------------------------------
