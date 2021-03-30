@@ -1,5 +1,5 @@
 # Composition Java
-This is a exercise about composition with some basics knowlegde. In this little project the class Worker has two associations with the class Department and a few contracts(class HourContract). It was created one Enum class inside another package(entities.enum). The other classes are inside of the package entities and the Main class is inside of the package application
+This is a exercise about composition with some basics knowlegde. In this little project the class Worker has two associations with the class Department and a few contracts(class HourContract). It was created one Enum class inside another package(entities.enum). The other classes are inside of the package entities and the Main class is inside of the application package.
 
 Technologies
 ------------------------------------------------------------
